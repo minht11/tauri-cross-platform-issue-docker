@@ -1,0 +1,11 @@
+.moon/cache
+**/.editorconfig
+**/.dockerignore
+**/.gitignore
+**/Dockerfile
+**/Dockerfile.**
+**/.git
+**/.DS_Store
+**/.vscode
+**/node_modules
+**/.cache
